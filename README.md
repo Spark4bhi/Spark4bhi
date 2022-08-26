@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **javascript and python**
 
+- I am a student **. still learning!!**
+
 - 📫 How to reach me **spark4bhi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
