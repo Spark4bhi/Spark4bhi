@@ -2,7 +2,7 @@
 <h3 align="center">I am a starter developer and student</h3>
 <img align="right" alt="coding gif" width 400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spark4bhi&label=Profile%20views&color=0e75b6&style=flat" alt="spark4bhi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spark4bhi&label=Profile views&color=0e75b6&style=flat" alt="spark4bhi" /> </p>
 
 - 🌱 I’m currently learning **javascript and python**
 
