@@ -1,4 +1,3 @@
-<body background-color = white>
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
 <h3 align="center">I am a starter developer and student</h3>
 <img align="right" alt="coding gif" width 400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
