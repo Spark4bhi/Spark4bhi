@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
 <h3 align="center">I am a life long learner</h3>
 
+<p align="left">  <img src="https://share.creavite.co/hQ7YMAFYdxwmwUFK.gif" alt="css3" width="40" height="40"/>
+
+
 ![](https://komarev.com/ghpvc/?username=Spark4bhi&style=for-the-badge)
 
 
@@ -40,4 +43,4 @@ For support, email spark4bhi@gmail.com or Dm me on discord Abhinav K#8242.
 
 If you have any feedback, please reach out to us at spark4bhi@gmail.com
 
-
+<p align="left">  <img src="https://share.creavite.co/hQ7YMAFYdxwmwUFK.gif" alt="css3" width="40" height="40"/>
