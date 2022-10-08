@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
 <h3 align="center">I am a life long learner</h3>
 
-<p align="left">  <img src="https://share.creavite.co/hQ7YMAFYdxwmwUFK.gif" alt="css3" width="40" height="40"/>
+<p align="center"> <a href="" target="_blank" rel="noreferrer"> <img src="https://share.creavite.co/meyPRaUsCprNdPob.png" alt="main" /></a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 
 
 ![](https://komarev.com/ghpvc/?username=Spark4bhi&style=for-the-badge)
