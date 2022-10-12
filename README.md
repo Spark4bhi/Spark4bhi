@@ -21,7 +21,9 @@
 ##  🎖️ Profile Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spark4bhi&show_icons=true&theme=midnight-purple)](https://github.com/Spark4bhi/Spark4bhi)
+ 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+ 
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Spark4bhi&theme=midnight-purple)](https://git.io/streak-stats) 
 
@@ -48,6 +50,7 @@
 
 
 
+
 ## 📢 Support
 
 For support, email spark4bhi@gmail.com or Dm me on discord Abhinav K#8242.
@@ -58,3 +61,4 @@ For support, email spark4bhi@gmail.com or Dm me on discord Abhinav K#8242.
 If you have any feedback, please reach out to us at spark4bhi@gmail.com
 
 <p align="left">  <img src="https://share.creavite.co/hQ7YMAFYdxwmwUFK.gif" alt="css3" width="40" height="40"/>
+![e426702edf874b181aced1e2fa5c6cde](https://user-images.githubusercontent.com/101919895/195382331-86addde7-6cfb-4825-ae03-fea1231325ed.gif)
