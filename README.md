@@ -22,6 +22,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spark4bhi&show_icons=true&theme=midnight-purple)](https://github.com/Spark4bhi/Spark4bhi)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Spark4bhi&theme=midnight-purple)](https://git.io/streak-stats) 
 
 
 ## Languages & Tools 
