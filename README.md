@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
 <h3 align="center">I am a life long learner</h3>
 
-<h3> Trohpies: </h3>
-<p align="left"> <a href="https://github.com/Spark4bhi/github-profile-trophy&theme=midnight-purple"><img src="https://github-profile-trophy.vercel.app/?username=Spark4bhi" alt="Trophies" /></a> </p>
+
 
 <p align="center"> <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101919895/195373627-4cffbb03-102c-4ce7-86b0-eadd1233162d.gif" alt="main" /></a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
