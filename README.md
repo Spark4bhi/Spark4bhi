@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
 <h3 align="center">I am a life long learner</h3>
 
@@ -18,15 +17,14 @@
 - 🎯 Next steps **MongoDB, React.js, Node.js**
 - Feel free to ask me if you want any help in Web Devlopment
 
+
 ##  🎖️ Profile Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spark4bhi&show_icons=true&theme=midnight-purple)](https://github.com/Spark4bhi/Spark4bhi)
  
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
- 
- 
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Spark4bhi&theme=midnight-purple)](https://git.io/streak-stats) 
-
 
 ## Languages & Tools 
 
