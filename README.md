@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
 <h3 align="center">I am a life long learner</h3>
 
+<h3> Trohpies: </h3>
+<p align="left"> <a href="https://github.com/Spark4bhi/github-profile-trophy&theme=midnight-purple"><img src="https://github-profile-trophy.vercel.app/?username=Spark4bhi" alt="Trophies" /></a> </p>
+
 <p align="center"> <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101919895/195373627-4cffbb03-102c-4ce7-86b0-eadd1233162d.gif" alt="main" /></a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 
@@ -20,16 +23,15 @@
 
 ##  🎖️ Profile Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spark4bhi&show_icons=true&theme=midnight-purple)](https://github.com/Spark4bhi/Spark4bhi)
+[![Sparl4bhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spark4bhi&show_icons=true&theme=midnight-purple)](https://github.com/Spark4bhi/Spark4bhi)
  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=midnight-purple)](https://github.com/Spark4bhi/github-readme-stats)
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Spark4bhi&theme=midnight-purple)](https://git.io/streak-stats) 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Spark4bhi&theme=midnight-purple)](https://git.io/streak-stats)
 
 ## Languages & Tools 
 
 ### Used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spark4bhi&layout=compact&theme=midnight-purple)](https://github.com/Spark4bhi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spark4bhi&layout=compac&theme=midnight-purple)](https://github.com/Spark4bhi/github-readme-stats)
 
 ### Languages
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
