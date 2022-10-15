@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
+# <p align="center"> <a href="" target="_blank" rel="noreferrer"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhinav+Kumar" alt="main" /></a> 
 <h3 align="center">I am a life long learner</h3>
-
 
 
 <p align="center"> <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101919895/195373627-4cffbb03-102c-4ce7-86b0-eadd1233162d.gif" alt="main" /></a> 
@@ -45,9 +44,6 @@
 
 ### Next Steps
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
-
 
 
 ## 📢 Support
