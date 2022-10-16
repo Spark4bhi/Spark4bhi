@@ -1,4 +1,4 @@
-# <p align="center"> <a href="" target="_blank" rel="noreferrer"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=2000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhinav+Kumar" alt="main" /></a> 
+# <p align="center"> <a href="" target="_blank" rel="noreferrer"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=31&duration=2000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Abhinav+Kumar" alt="main" /></a> 
 <h3 align="center">I am a life long learner</h3>
 
 
