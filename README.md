@@ -5,10 +5,7 @@
 <p align="center"> <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101919895/195373627-4cffbb03-102c-4ce7-86b0-eadd1233162d.gif" alt="main" /></a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 
-<p align="center">
 <a href="">![](https://komarev.com/ghpvc/?username=Spark4bhi&style=for-the-badge)</a>
-</p>
-
 
 
 ## 🚀 About Me
