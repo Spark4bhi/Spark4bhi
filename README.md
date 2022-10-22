@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://github.com/Spark4bhi">
-   <img src="https://komarev.com/ghpvc/?username=Spark4bhi&style=for-the-badge" alt="node.js">
+   <img src="https://komarev.com/ghpvc/?username=Spark4bhi&logo=contact_man&style=for-the-badge" alt="node.js">
 </a>
 <a href="https://github.com/Spark4bhi">
    <img src="https://img.shields.io/github/followers/Spark4bhi?label=Follow&logo=github&style=for-the-badge" alt="github-follow">
