@@ -5,7 +5,25 @@
 <p align="center"> <a href="" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101919895/195373627-4cffbb03-102c-4ce7-86b0-eadd1233162d.gif" alt="main" /></a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 
-<a href="">![](https://komarev.com/ghpvc/?username=Spark4bhi&style=for-the-badge)</a>
+<p align="center">
+<a href="https://github.com/Spark4bhi">
+   <img src="https://komarev.com/ghpvc/?username=Spark4bhi&style=for-the-badge" alt="node.js">
+</a>
+<a href="https://github.com/Spark4bhi">
+   <img src="https://img.shields.io/github/followers/Spark4bhi?label=Follow&logo=github&style=for-the-badge" alt="github-follow">
+</a>
+
+<p align="center">
+
+<a href="https://github.com/Spark4bhi/Spark4bhi">
+   <img src="https://img.shields.io/github/forks/Spark4bhi/Spark4bhi?logo=githubactions&logoColor=success&style=social" alt="github-fork">
+</a>
+
+<a href="https://github.com/Spark4bhi/Spark4bhi">
+   <img src="https://img.shields.io/github/stars/Spark4bhi/Spark4bhi?label=Stars&logo=ReverbNation&&logoColor=yellow&style=social" alt="github-repo-stars">
+</a>
+
+</p>
 
 
 ## 🚀 About Me
@@ -42,6 +60,8 @@
 ## 📢 Support
 
 For support, email spark4bhi@gmail.com or Dm me on discord Abhinav K#8242.
+
+<img src = 'https://discord.c99.nl/widget/theme-3/771233291579686952.png'>
 
 
 ## Feedback
