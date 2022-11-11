@@ -32,7 +32,7 @@
 - ❤️‍ I would truly appreciate you if you will star my repos 
 - 🎯 Always knew **HTML and CSS**
 - 🎯 I’m currently mastering **Javascript, Python, TS** 
-- 🎯 Next steps **MongoDB, React.js, Node.js**
+- 🎯 Next steps **MongoDB, React.js**
 - Feel free to ask me if you want any help in Web Devlopment
 
 
