@@ -75,5 +75,4 @@ For support, email spark4bhi@gmail.com or Dm me on discord Abhinav K#8242.
 ## Feedback
 
 If you have any feedback, please reach out to us at spark4bhi@gmail.com
-![Untitled]()
-![Untitled (1)](
+
