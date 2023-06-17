@@ -46,7 +46,7 @@
 ## Languages & Tools 
 
 ### Used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spark4bhi&layout=compac&show_icons=true&theme=midnight-purple)](https://github.com/Spark4bhi/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spark4bhi&show_icons=true&theme=algolia&locale=en&layout=compact"></p>
 
 ### Languages and Tools
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
